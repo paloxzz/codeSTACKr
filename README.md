@@ -1,8 +1,11 @@
+
+
 # Hey there, myself Priyanshu-aka-paloxzz!!
 
 
 [![Website](https://img.shields.io/website?label=paloxzz.netlify&style=for-the-badge&url=https%3A%2F%2Fpaloxzz.netlify.app)](https://paloxzz.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/paloxzz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%paloxzz&screen_name=paloxzz)
+
 
 
 
@@ -59,7 +62,7 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Stats & Langs</summary>
 
  
 
@@ -84,7 +87,12 @@
   <br>
   
 </p>
+	<br/>
+	
+
 </details>
+	<p align="left"> <img src="https://komarev.com/ghpvc/?username=paloxzz&label=Profile%20views&color=0e75b6&style=flat" alt="paloxzz" /> </p>
+
 
 [website]: https://paloxzz.netlify.app
 
